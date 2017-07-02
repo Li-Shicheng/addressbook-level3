@@ -47,7 +47,8 @@ Priority | As a ... | I want to ... | So that I can...
 `* * *` | user | find a person by name | locate details of persons without having to go through the entire list
 `* *` | user | hide [private contact details](#private-contact-detail) by default | minimize chance of someone else seeing them by accident
 `*` | user with many persons in the address book | sort persons by name | locate a person easily
-
+`**` | person with very poor memory | store information about when and where I first met the person | remember who the person is
+`*` | a social media user | store person's names on various social media | have alternative contact in case phone and email is not to update
 
 ## Appendix B : Use Cases
 
